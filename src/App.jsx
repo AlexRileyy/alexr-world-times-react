@@ -11,7 +11,7 @@ function App() {
   
   return (
     <>
-      <h1>Some Global Time Zones</h1>
+      <h1>Global Time Zones</h1>
       <h2>The time in London is: {londonTime}</h2>
       <h2>The time in New York is: {newYorkTime}</h2>
       <h2>The time in Tokyo is: {tokyoTime}</h2>
